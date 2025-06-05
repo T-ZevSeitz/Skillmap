@@ -40,7 +40,6 @@ let myEnemy = sprites.create(img`
     . . . . . . . . f f f f f . . . 
     `, SpriteKind.Enemy)
 myEnemy.right = 160
-
 ```
 
 ## Welcome @unplugged
