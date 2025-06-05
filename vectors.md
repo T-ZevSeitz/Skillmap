@@ -1,6 +1,7 @@
 # Vectors 
+
 ```template
-myEnemy.right = 160
+scene.setBackgroundColor(1)
 ```
 
 ## Welcome @unplugged
