@@ -19,7 +19,8 @@
         "tutorials/space/activity3.md",
         "tutorials/space/activity4.md",
         "tutorials/space/activity5.md",
-        "test.md"
+        "test.md",
+        "vectors.md"
     ],
     "testFiles": [],
     "targetVersions": {
